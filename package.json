@@ -1,0 +1,22 @@
+{
+  "name": "floret",
+  "version": "0.1.0",
+  "description": "An effort at a new widget design set, built on Svelte",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/funkybob/floret.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/funkybob/floret/issues"
+  },
+  "homepage": "https://github.com/funkybob/floret#readme",
+  "devDependencies": {
+    "svelte": "^3.20.1"
+  }
+}
